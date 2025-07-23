@@ -137,7 +137,7 @@ body {
 @media print {
   .visualizar-pdf-button,
   #btnTopo,
-  #btnFim,
+  #btnFim
  {
     display: none !important;
   }

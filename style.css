@@ -122,18 +122,15 @@ body {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.print-button:hover {
+.visualizar-pdf-button:hover {
   background-color: #45a049;
   transform: scale(1.05);
 }
 
-.print-button:active {
+.visualizar-pdf-button:active {
   background-color: #3e8e41;
   transform: scale(1);
 }
-
-
-
 
 
 /*

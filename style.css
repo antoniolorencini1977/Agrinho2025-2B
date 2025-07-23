@@ -98,16 +98,6 @@ body {
   background-color: #388E3C;
 }
 
- footer {
-    background-color: #4CAF50;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    padding: 1rem;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-  }
-
 /*  botão de visualizar página */
 .visualizar-pdf-button {
   background-color: #4CAF50; /* verde suave */
@@ -142,12 +132,17 @@ body {
   }
 }
 
+ 
  footer {
-    position: static !important;
-    background-color: white !important;
-    color: black !important;
-    box-shadow: none !important;
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
   }
+
 
 
 /*

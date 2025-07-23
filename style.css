@@ -133,6 +133,20 @@ body {
   transform: scale(1);
 }
 
+/* Ocultar elementos do botão visualizar na impressão */
+@media print {
+  .visualizar-pdf-button,
+  #btnTopo,
+  #btnFim,
+  footer {
+    display: none !important;
+  }
+}
+
+
+
+
+
 /*
 isto é um comentário - não está visível
 

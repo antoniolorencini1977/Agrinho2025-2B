@@ -143,6 +143,14 @@ body {
   }
 }
 
+ footer {
+    position: static !important;
+    background-color: white !important;
+    color: black !important;
+    box-shadow: none !important;
+  }
+
+
 /*
 isto é um comentário - não está visível
 
